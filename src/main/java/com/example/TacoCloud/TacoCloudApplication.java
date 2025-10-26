@@ -11,9 +11,6 @@ public class TacoCloudApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(TacoCloudApplication.class, args);
-
-		log.info("Taco Cloud Application Started.");
-
 	}
 
 }
