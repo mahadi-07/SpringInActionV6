@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    name: TacoCloud
+    generate-unique-name: false
+  main:
+    allow-bean-definition-overriding: true
