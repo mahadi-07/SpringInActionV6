@@ -6,6 +6,9 @@
 #    key-password: password
 
 spring:
+  data:
+    rest:
+      base-path: /data-api
   datasource:
     name: TacoCloud
     generate-unique-name: false
